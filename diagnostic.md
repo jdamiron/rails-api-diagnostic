@@ -41,7 +41,7 @@ Destroy
 In which part of the MVC pattern can we find C.R.U.D actions?
 
 ```bash
-Controls
+Controllers
 ```
 
 A user action fires a `GET` request for `person/1`. Explain in detail each step
